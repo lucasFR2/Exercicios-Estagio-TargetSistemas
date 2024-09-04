@@ -1,0 +1,4 @@
+5- Primeiro, eu iria acender 1 dos interruptores e o deixaria ligado por volta de 4 minutos e desligaria. Logo após esperar os 4 minutos, eu ligaria o segundo interruptor 
+e o deixaria ligado, sem alterar o estado do terceiro interruptor. Depois disso, iria em cada sala e verificaria qual lâmpada estaria quente e desligada, 
+qual estaria ligada e qual estaria desligada e fria. Por fim a sequência é esta, o 1º interruptor corresponde a sala que está com a lâmpada quente e desligada, 
+o 2º interruptor corresponde a sala que está com a lâmpada ligada e a 3º sala corresponde ao interruptor que não foi alterado. 

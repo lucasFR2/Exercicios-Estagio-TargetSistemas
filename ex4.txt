@@ -1,0 +1,6 @@
+4 -   (a) 9, pois é uma sequência de números ímpares;
+      (b) 128, pois se calcula o dobro do número anterior para saber o próximo;
+      (c) 49, usando a função f(x) = x^2 encontramos o valor pois 0^2 = 0, 1^2 = 1, 2^2 = 4 e assim sucessivamente;
+      (d) 100, sabendo que a sequência é o quadrado de um número par (2^2, 4^2, 6^2) o próximo seria 10^2 = 100;
+      (e) 13, pertence a sequência de Fibonacci, 8+5 = 13;
+      (f) 20, seguindo a lógica, depois de duas sequências de números pares, começam os números consecutivos.
